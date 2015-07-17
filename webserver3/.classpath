@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/succezIDE/slf4j-1.7.12/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/slf4j-1.7.12/slf4j-simple-1.7.12.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.aop.source_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.aop_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.beans.source_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.beans_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.context.source_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.context.support.source_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.context.support_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.context_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.core.source_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.core_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.springframework.expression_4.1.4.20150106-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/springsource-tool-suite-3.6.4.RELEASE-e4.4.2-updatesite/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

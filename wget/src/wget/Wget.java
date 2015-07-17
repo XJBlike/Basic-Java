@@ -1,15 +1,24 @@
 package wget;
 
-import java.io.*;
-import java.util.Scanner;   
-import java.net.URL;   
-    
+import java.io.BufferedOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.URL;
+import java.util.Scanner;
+
 public class Wget{    	
+	
+	
 	/*
      * get url of the file you wanted
      * get the path to save your file 
      */                                                                                                                                                                              
     public static void main(String[] args) {
+    	
+    	
+    	
     	//创建一个scanner，获取URL和路径
     	Scanner sc=new Scanner(System.in);
     	System.out.println("Please input the file's Http_URL:");  	

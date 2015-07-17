@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="D:/succezIDE/commons-io-2.4/commons-io-2.4-sources.jar"/>
 	<classpathentry kind="lib" path="D:/succezIDE/commons-io-2.4/commons-io-2.4-tests.jar"/>
 	<classpathentry kind="lib" path="D:/succezIDE/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/succezIDE/slf4j-1.7.12/slf4j-api-1.7.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
